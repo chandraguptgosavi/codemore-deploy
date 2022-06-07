@@ -1,0 +1,7 @@
+node_modules
+doc
+.env
+
+# hidden files/folders
+.*
+!/.gitignore
