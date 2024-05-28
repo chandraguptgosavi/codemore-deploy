@@ -16,7 +16,7 @@ const PORT = process.env.PORT,
 
 app.use(
   cors({
-    origin: "https://codemore.deta.dev",
+    origin: "https://codemore-3col.onrender.com",
   })
 );
 app.use(express.json());
